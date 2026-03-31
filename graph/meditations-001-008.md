@@ -1,0 +1,3 @@
+# I.8
+
+From Apollonius I learned freedom of will and undeviating steadiness of purpose; and to look to nothing else, not even for a moment, except to reason; and to be always the same, in sharp pains, on the occasion of the loss of a child, and in long illness; and to see clearly in a living example that the same man can be both most resolute and yielding, and not peevish in giving his instruction; and to have had before my eyes a man who clearly considered his experience and his skill in expounding philosophical principles as the smallest of his merits; and from him I learned how to receive from friends what are esteemed favours, without being either humbled by them or letting them pass unnoticed.

@@ -1,0 +1,3 @@
+# III.5
+
+Labour not unwillingly, nor without regard to the common interest, nor without due consideration, nor with distraction; nor let studied ornament set off thy thoughts, and be not either a man of many words, or busy about too many things. And further, let the deity which is in thee be the guardian of a living being, manly and of ripe age, and engaged in matter political, and a Roman, and a ruler, who has taken his post like a man waiting for the signal which summons him from life, and ready to go, having need neither of oath nor of any man's testimony. Be cheerful also, and seek not external help nor the tranquility which others give. A man then must stand erect, not be kept erect by others.

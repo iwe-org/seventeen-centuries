@@ -1,0 +1,3 @@
+# XII.17
+
+Either there is a fatal necessity and invincible order, or a kind Providence, or a confusion without a purpose and without a director (Book IV). If then there is an invincible necessity, why dost thou resist? But if there is a Providence which allows itself to be propitiated, make thyself worthy of the help of the divinity. But if there is a confusion without governor, be content that in such a tempest thou hast in thyself a certain ruling intelligence. And even if the tempest carry thee away, let it carry away the poor flesh, the poor breath, everything else; for the intelligence at least it will not carry away.

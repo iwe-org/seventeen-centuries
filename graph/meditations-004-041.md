@@ -1,0 +1,3 @@
+# IV.41
+
+What is evil to thee does not subsist in the ruling principle of another; nor yet in any turning and mutation of thy corporeal covering. Where is it then? It is in that part of thee in which subsists the power of forming opinions about evils. Let this power then not form such opinions, and all is well. And if that which is nearest to it, the poor body, is burnt, filled with matter and rottenness, nevertheless let the part which forms opinions about these things be quiet, that is, let it judge that nothing is either bad or good which can happen equally to the bad man and the good. For that which happens equally to him who lives contrary to nature and to him who lives according to nature, is neither according to nature nor contrary to nature.

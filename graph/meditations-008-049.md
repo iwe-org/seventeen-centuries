@@ -1,0 +1,3 @@
+# VIII.49
+
+If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgement about it. And it is in thy power to wipe out this judgement now. But if anything in thy own disposition gives thee pain, who hinders thee from correcting thy opinion? And even if thou art pained because thou art not doing some particular thing which seems to thee to be right, why dost thou not rather act than complain?---But some insuperable obstacle is in the way?---Do not be grieved then, for the cause of its not being done depends not on thee.---But it is not worth while to live if this cannot be done.---Take thy departure then from life contentedly, just as he dies who is in full activity, and well pleased too with the things which are obstacles.

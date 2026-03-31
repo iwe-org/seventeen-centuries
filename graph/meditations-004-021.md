@@ -1,0 +1,3 @@
+# IV.21
+
+Everything which is in any way beautiful is beautiful in itself, and terminates in itself, not having praise as part of itself. Neither worse then nor better is a thing made by being praised. I affirm this also of the things which are called beautiful by the vulgar, for example, material things and works of art. That which is really beautiful has no need of anything; not more than law, not more than truth, not more than benevolence or modesty. Which of these things is beautiful because it is praised, or spoiled by being blamed? Is such a thing as an emerald made worse than it was, if it is not praised? Or gold, ivory, purple, a lyre, a little knife, a flower, a shrub?

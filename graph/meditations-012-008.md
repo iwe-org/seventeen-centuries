@@ -1,0 +1,3 @@
+# XII.8
+
+But if this is so, be assured that if it ought to have been otherwise, the gods would have done it. For if it were just, it would also be possible; and if it were according to nature, nature would have had it so. But because it is not so, if in fact it is not so, be thou convinced that it ought not to have been so:---for thou seest even of thyself that in this inquiry thou art disputing with the diety; and we should not thus dispute with the gods, unless they were most excellent and most just;---but if this is so, they would not have allowed anything in the ordering of the universe to be neglected unjustly and irrationally.

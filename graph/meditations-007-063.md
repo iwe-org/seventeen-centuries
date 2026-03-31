@@ -1,0 +1,3 @@
+# VII.63
+
+Nature has not so mingled the intelligence with the composition of the body, as not to have allowed thee the power of circumscribing thyself and of bringing under subjection to thyself all that is thy own; for it is very possible to be a divine man and to be recognised as such by no one. Always bear this in mind; and another thing too, that very little indeed is necessary for living a happy life. And because thou hast despaired of becoming a dialectician and skilled in the knowledge of nature, do not for this reason renounce the hope of being both free and modest and social and obedient to God.

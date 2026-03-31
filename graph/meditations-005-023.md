@@ -1,0 +1,3 @@
+# V.23
+
+Often think of the rapidity with which things pass by and disappear, both the things which are and the things which are produced. For substance is like a river in a continual flow, and the activities of things are in constant change, and the causes work in infinite varieties; and there is hardly anything which stands still. And consider this which is near to thee, this boundless abyss of the past and of the future in which all things disappear. How then is he not a fool who is puffed up with such things or plagued about them and makes himself miserable? for they vex him only for a time, and a short time.

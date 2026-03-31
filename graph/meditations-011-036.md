@@ -1,0 +1,3 @@
+# XI.36
+
+There are four principal aberrations of the superior faculty against which thou shouldst be constantly on thy guard, and when thou hast detected them, thou shouldst wipe them out and say on each occasion thus: this thought is not necessary: this tends to destroy social union: this which thou art going to say comes not from the real thoughts; for thou shouldst consider it among the most absurd of things for a man not to speak from his real thoughts. But the fourth is when thou shalt reproach thyself for anything, for this is an evidence of the diviner part within thee being overpowered and yielding to the less honourable and to the perishable part, the body, and to its gross pleasures.

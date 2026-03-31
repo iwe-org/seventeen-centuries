@@ -1,0 +1,3 @@
+# IV.26
+
+Occupy thyself with few things, says the philosopher, if thou wouldst be tranquil.---But consider if it would not be better to say, Do what is necessary, and whatever the reason of the animal which is naturally social requires, and as it requires. For this brings not only the tranquility which comes from doing well, but also that which comes from doing few things. For the greatest part of what we say and do being unnecessary, if a man takes this away, he will have more leisure and less uneasiness. Accordingly on every occasion a man should ask himself, Is this one of the unnecessary things? Now a man should take away not only unnecessary acts, but also, unnecessary thoughts, for thus superfluous acts will not follow after.

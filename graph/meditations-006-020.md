@@ -1,0 +1,3 @@
+# VI.20
+
+In the gymnastic exercises suppose that a man has torn thee with his nails, and by dashing against thy head has inflicted a wound. Well, we neither show any signs of vexation, nor are we offended, nor do we suspect him afterwards as a treacherous fellow; and yet we are on our guard against him, not however as an enemy, nor yet with suspicion, but we quietly get out of his way. Something like this let thy behaviour be in all the other parts of life; let us overlook many things in those who are like antagonists in the gymnasium. For it is in our power, as I said, to get out of the way, and to have no suspicion nor hatred.

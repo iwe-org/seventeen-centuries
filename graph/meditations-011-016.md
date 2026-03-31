@@ -1,0 +1,3 @@
+# XI.16
+
+As those who try to stand in thy way when thou art proceeding according to right reason, will not be able to turn thee aside from thy proper action, so neither let them drive thee from thy benevolent feelings towards them, but be on thy guard equally in both matters, not only in the matter of steady judgement and action, but also in the matter of gentleness towards those who try to hinder or otherwise trouble thee. For this also is a weakness, to be vexed at them, as well as to be diverted from thy course of action and to give way through fear; for both are equally deserters from their post, the man who does it through fear, and the man who is alienated from him who is by nature a kinsman and a friend.

@@ -1,0 +1,3 @@
+# VI.36
+
+Asia, Europe are corners of the universe: all the sea a drop in the universe; Athos a little clod of the universe: all the present time is a point in eternity. All things are little, changeable, perishable. All things come from thence, from that universal ruling power either directly proceeding or by way of sequence. And accordingly the lion's gaping jaws, and that which is poisonous, and every harmful thing, as a thorn, as mud, are after-products of the grand and beautiful. Do not then imagine that they are of another kind from that which thou dost venerate, but form a just opinion of the source of all.

@@ -1,0 +1,3 @@
+# VII.5
+
+Is my understanding sufficient for this or not? If it is sufficient, I use it for the work as an instrument given by the universal nature. But if it is not sufficient, then either I retire from the work and give way to him who is able to do it better, unless there be some reason why I ought not to do so; or I do it as well as I can, taking to help me the man who with the aid of my ruling principle can do what is now fit and useful for the general good. For whatsoever either by myself or with another I can do, ought to be directed to this only, to that which is useful and well suited to society.

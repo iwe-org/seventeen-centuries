@@ -1,0 +1,3 @@
+# VII.54
+
+In everything which happens keep before thy eyes those to whom the same things happened, and how they were vexed, and treated them as strange things, and found fault with them: and now where are they? Nowhere. Why then dost thou too choose to act in the same way? And why dost thou not leave these agitations which are foreign to nature, to those who cause them and those who are moved by them? And why art thou not altogether intent upon the right way of making use of the things which happen to thee? For then thou wilt use them well, and they will be a material for thee to work on. Only attend to thyself, and resolve to be a good man in every act which thou doest: and remember ...

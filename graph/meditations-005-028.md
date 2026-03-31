@@ -1,0 +1,3 @@
+# V.28
+
+Art thou angry with him whose armpits stink? Art thou angry with him whose mouth smells foul? What good will this danger do thee? He has such a mouth, he has such armpits: it is necessary that such an emanation must come from such things---but the man has reason, it will be said, and he is able, if he takes pain, to discover wherein he offends---I wish thee well of thy discovery. Well then, and thou hast reason: by thy rational faculty stir up his rational faculty; show him his error, admonish him. For if he listens, thou wilt cure him, and there is no need of anger. Neither tragic actor nor whore ...
