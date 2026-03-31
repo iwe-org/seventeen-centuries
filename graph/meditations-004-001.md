@@ -1,0 +1,3 @@
+# IV.1
+
+That which rules within, when it is according to nature, is so affected with respect to the events which happen, that it always easily adapts itself to that which is and is presented to it. For it requires no definite material, but it moves towards its purpose, under certain conditions however; and it makes a material for itself out of that which opposes it, as fire lays hold of what falls into it, by which a small light would have been extinguished: but when the fire is strong, it soon appropriates to itself the matter which is heaped on it, and consumes it, and rises higher by means of this very material.

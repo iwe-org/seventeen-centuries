@@ -1,0 +1,3 @@
+# IV.20
+
+He who has a vehement desire for posthumous fame does not consider that every one of those who remember him will himself also die very soon; then again also they who have succeeded them, until the whole remembrance shall have been extinguished as it is transmitted through men who foolishly admire and perish. But suppose that those who will remember are even immortal, and that the remembrance will be immortal, what then is this to thee? And I say not what is it to the dead, but what is it to the living? What is praise except indeed so far as it has a certain utility? For thou now rejectest unseasonably the gift of nature, clinging to something else ...

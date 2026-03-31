@@ -1,0 +1,3 @@
+# IV.48
+
+Always remember the saying of Heraclitus, that the death of earth is to become water, and the death of water is to become air, and the death of air is to become fire, and reversely. And think too of him who forgets whither the way leads, and that men quarrel with that with which they are most constantly in communion, the reason which governs the universe; and the things which daily meet with seem to them strange: and consider that we ought not to act and speak as if we were asleep, for even in sleep we seem to act and speak; and that we ought not, like children who learn from their parents, simply to act and speak as we have been taught.

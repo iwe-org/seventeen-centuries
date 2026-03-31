@@ -1,0 +1,3 @@
+# IX.2
+
+It would be a man's happiest lot to depart from mankind without having had any taste of lying and hypocrisy and luxury and pride. However to breathe out one's life when a man has had enough of these things is the next best voyage, as the saying is. Hast thou determined to abide with vice, and has not experience yet induced thee to fly from this pestilence? For the destruction of the understanding is a pestilence, much more indeed than any such corruption and change of this atmosphere which surrounds us. For this corruption is a pestilence of animals so far as they are animals; but the other is a pestilence of men so far as they are men.

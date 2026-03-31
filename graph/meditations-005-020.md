@@ -1,0 +1,3 @@
+# V.20
+
+In one respect man is the nearest thing to me, so far as I must do good to men and endure them. But so far as some men make themselves obstacles to my proper acts, man becomes to me one of the things which are indifferent, no less than the sun or wind or a wild beast. Now it is true that these may impede my action, but they are no impediments to my affects and disposition, which have the power of acting conditionally and changing: for the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road.

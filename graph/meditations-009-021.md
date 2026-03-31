@@ -1,0 +1,3 @@
+# IX.21
+
+Termination of activity, cessation from movement and opinion, and in a sense their death, is no evil. Turn thy thoughts now to the consideration of thy life, thy life as a child, as a youth, thy manhood, thy old age, for in these also every change was a death. Is this anything to fear? Turn thy thoughts now to thy life under thy grandfather, then to thy life under thy mother, then to thy life under thy father; and as thou findest many other differences and changes and terminations, ask thyself, Is this anything to fear? In like manner, then, neither are the termination and cessation and change of thy whole life a thing to be afraid of.

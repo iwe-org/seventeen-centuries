@@ -1,0 +1,3 @@
+# X.4
+
+Everything which happens either happens in such wise as thou art formed by nature to bear it, or as thou art not formed by nature to bear it. If, then, it happens to thee in such way as thou art formed by nature to bear it, do not complain, but bear it as thou art formed by nature to bear it. But if it happens in such wise as thou art not formed by nature to bear it, do not complain, for it will perish after it has consumed thee. Remember, however, that thou art formed by nature to bear everything, with respect to which it depends on thy own opinion to make it endurable and tolerable, by thinking that it is either thy interest or thy duty to do this.

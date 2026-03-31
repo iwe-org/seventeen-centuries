@@ -1,0 +1,3 @@
+# V.37
+
+What then is there which still detains thee here? If the objects of sense are easily changed and never stand still, and the organs of perception are dull and easily receive false impressions; and the poor soul itself is an exhalation from blood. But to have good repute amidst such a world as this is an empty thing. Why then dost thou not wait in tranquility for thy end, whether it is extinction or removal to another state? And until that time comes, what is sufficient? Why, what else than to venerate the gods and bless them, and to do good to men, and to practise tolerance and self-restraint; but as to everything which is beyond the limits of the poor flesh and breath, to remember that this is neither thine nor in thy power.

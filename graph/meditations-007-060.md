@@ -1,0 +1,3 @@
+# VII.60
+
+In every pain let this thought be present, that there is no dishonour in it, nor does it make the governing intelligence worse, for it does not damage the intelligence either so far as the intelligence is rational or so far as it is social. Indeed in the case of most pains let this remark of Epicurus aid thee, that pain is neither intolerable nor everlasting, if thou bearest in mind that it has its limits, and if thou addest nothing to it in imagination: and remember this too, that we do not perceive that many things which are disagreeable to us are the same as pain, such as excessive drowsiness, and the being scorched by heat, and the having no appetite. When then thou art discontented about any of these things, say to thyself, that thou art yielding to pain.

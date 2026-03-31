@@ -1,0 +1,3 @@
+# IV.4
+
+This then remains: Remember to retire into this little territory of thy own, and above all do not distract or strain thyself, but be free, and look at things as a man, as a human being, as a citizen, as a mortal. But among the things readiest to thy hand to which thou shalt turn, let there be these, which are two. One is that things do not touch the soul, for they are external and remain immovable; but our perturbations come only from the opinion which is within. The other is that all these things, which thou seest, change immediately and will no longer be; and constantly bear in mind how many of these changes thou hast already witnessed. The universe is transformation: life is opinion.

@@ -1,0 +1,3 @@
+# VII.16
+
+The ruling faculty does not disturb itself; I mean, does not frighten itself or cause itself pain. But if anyone else can frighten or pain it, let him do so. For the faculty itself will not by its own opinion turn itself into such ways. Let the body itself take care, if it can, that is suffer nothing, and let it speak, if it suffers. But the soul itself, that which is subject to fear, to pain, which has completely the power of forming an opinion about these things, will suffer nothing, for it will never deviate into such a judgement. The leading principle in itself wants nothing, unless it makes a want for itself; and therefore it is both free from perturbation and unimpeded, if it does not disturb and impede itself.

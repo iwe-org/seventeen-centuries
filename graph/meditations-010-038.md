@@ -1,0 +1,3 @@
+# X.38
+
+Leaves, also, are thy children; and leaves, too, are they who cry out as if they were worthy of credit and bestow their praise, or on the contrary curse, or secretly blame and sneer; and leaves, in like manner, are those who shall receive and transmit a man's fame to aftertimes. For all such things as these "are produced in the season of spring," as the poet says; then the wind casts them down; then the forest produces other leaves in their places. But a brief existence is common to all things, and yet thou avoidest and pursuest all things as if they would be eternal. A little time, and thou shalt close thy eyes; and him who has attended thee to thy grave another soon will lament.

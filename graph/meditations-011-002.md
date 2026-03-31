@@ -1,0 +1,3 @@
+# XI.2
+
+Thou wilt set little value on pleasing song and dancing and the pancratium, if thou wilt distribute the melody of the voice into its several sounds, and ask thyself as to each, if thou art mastered by this; for thou wilt be prevented by shame from confessing it: and in the matter of dancing, if at each movement and attitude thou wilt do the same; and the like also in the matter of the pancratium. In all things, then, except virtue and the acts of virtue, remember to apply thyself to their several parts, and by this division to come to value them little: and apply this rule also to thy whole life.

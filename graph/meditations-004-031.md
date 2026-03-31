@@ -1,0 +1,3 @@
+# IV.31
+
+If he is a stranger to the universe who does not know what is in it, no less is he a stranger who does not know what is going on in it. He is a runaway, who flies from social reason; he is blind, who shuts the eyes of the understanding; he is poor, who has need of another, and has not from himself all things which are useful for life. He is an abscess on the universe who withdraws and separates himself from the reason of our common nature through being displeased with the things which happen, for the same nature produces this, and has produced thee too: he is a piece rent asunder from the state, who tears his own soul from that of reasonable animals, which is one.

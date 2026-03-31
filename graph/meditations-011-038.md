@@ -1,0 +1,3 @@
+# XI.38
+
+He who has not one and always the same object in life, cannot be one and the same all through his life. But what I have said is not enough, unless this also is added, what this object ought to be. For as there is not the same opinion about all the things which in some way or other are considered by the majority to be good, but only about some certain things, that is, things which concern the common interest; so also ought we to propose to ourselves an object which shall be of a common kind [social] and political. For he who directs all his own efforts to this object, will make all his acts alike, and thus will always be the same.

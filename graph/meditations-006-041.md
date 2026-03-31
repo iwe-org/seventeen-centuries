@@ -1,0 +1,3 @@
+# VI.41
+
+Whatever of the things which are not within thy power thou shalt suppose to be good for thee or evil, it must of necessity be that, if such a bad thing befall thee or the loss of such a good thing, thou wilt blame the gods, and hate men too, those who are the cause of the misfortune or the loss, or those who are suspected of being likely to be the cause; and indeed we do much injustice, because we make a difference between these things [because we do not regard these things as indifferent]. But if we judge only those things which are in our power to be good or bad, there remains no reason either for finding fault with God or standing in a hostile attitude to man.

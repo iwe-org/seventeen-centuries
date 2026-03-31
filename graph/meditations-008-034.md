@@ -1,0 +1,3 @@
+# VIII.34
+
+It is thy duty to order thy life well in every single act; and if every act does its duty, as far as is possible, be content; and no one is able to hinder thee so that each act shall not do its duty.---But something external will stand in the way.---Nothing will stand in the way of thy acting justly and soberly and considerately.---But perhaps some other active power will be hindered.---Well, but by acquiescing in the hindrance and by being content to transfer thy efforts to that which is allowed, another opportunity of action is immediately put before thee in place of that which was hindered, and one which will adapt itself to this ordering of which we are speaking.

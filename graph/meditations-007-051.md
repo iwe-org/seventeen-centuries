@@ -1,0 +1,3 @@
+# VII.51
+
+The prime principle then in man's constitution is the social. And the second is not to yield to the persuasions of the body, for it is the peculiar office of the rational and intelligent motion to circumscribe itself, and never to be overpowered either by the motion of the senses or of the appetites, for both are animal; but the intelligent motion claims superiority and does not permit itself to be overpowered by the others. And with good reason, for it is formed by nature to use all of them. The third thing in the rational constitution is freedom from error and from deception. Let then the ruling principle holding fast to these things go straight on, and it has what is its own.

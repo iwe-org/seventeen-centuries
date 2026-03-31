@@ -1,0 +1,3 @@
+# X.39
+
+The healthy eye ought to see all visible things and not to say, I wish for green things; for this is the condition of a diseased eye. And the healthy hearing and smelling ought to be ready to perceive all that can be heard and smelled. And the healthy stomach ought to be with respect to all food just as the mill with respect to all things which it is formed to grind. And accordingly the healthy understanding ought to be prepared for everything which happens; but that which says, Let my dear children live, and let all men praise whatever I may do, is an eye which seeks for green things, or teeth which seek for soft things.

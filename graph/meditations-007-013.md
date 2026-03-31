@@ -1,0 +1,3 @@
+# VII.13
+
+Just as it is with the members in those bodies which are united in one, so it is with rational beings which exist separate, for they have been constituted for one cooperation. And the perception of this will be more apparent to thee, if thou often sayest to thyself that I am a member [*μέλος*] of the system of rational beings. But if [using the letter *r*] thou sayest that thou art a part [*μέρος*] thou dost not yet love men from thy heart; beneficence does not yet delight thee for its own sake; thou still doest it barely as a thing of propriety, and not yet as doing good to thyself.
