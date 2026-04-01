@@ -1,5 +1,8 @@
 # Seventeen Centuries
 
+[![GitHub](https://img.shields.io/badge/GitHub-iwe--org%2Fseventeen--centuries-blue)](https://github.com/iwe-org/seventeen-centuries)
+[![Browse](https://img.shields.io/badge/Browse-iwe.pub-green)](https://iwe.pub/seventeen-centuries/)
+
 A knowledge graph connecting three philosophical texts across seventeen centuries—from Marcus Aurelius (170 AD) to Machiavelli (1513) to Nietzsche (1886)—exploring how ideas of virtue, power, and morality evolved through time.
 
 ## Overview
@@ -417,5 +420,6 @@ iwe stats                          # Graph statistics
 
 ## Related Projects
 
-- [iwe](https://github.com/iwe-org/iwe) - CLI for markdown document graphs
-- [Standard Ebooks](https://standardebooks.org/) - Source texts
+- [iwe](https://github.com/iwe-org/iwe) — CLI for markdown document graphs
+- [iwe.md](https://iwe.md) — Documentation and website
+- [Standard Ebooks](https://standardebooks.org/) — Source texts
