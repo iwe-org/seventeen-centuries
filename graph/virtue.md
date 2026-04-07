@@ -4,6 +4,10 @@
 
 Virtue carries vastly different meanings across these works. For Marcus Aurelius, virtue is acting according to nature and reason, serving the common good as naturally as the eye sees, requiring no external reward. Machiavelli inverts this, arguing that a prince who acts entirely virtuously will be ruined among so much evil; what appears virtuous may destroy while apparent vice may preserve. Nietzsche warns against becoming enslaved to one's own virtues, noting that every virtue inclines toward stupidity and that moral philosophy has made virtue tedious through its ponderous advocates.
 
+## Articles
+
+- [Virtue across seventeen centuries](virtue-across-centuries.md) — an essay tracing how the concept of virtue transforms from cosmic law to political tool to psychological suspicion, built on the source fragments below
+
 ## Mentioned In
 
 ### The Prince

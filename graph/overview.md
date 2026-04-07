@@ -7,3 +7,7 @@
 [Meditations](meditations.md)
 
 [The Prince](prince.md)
+
+## Articles
+
+[Virtue across seventeen centuries](virtue-across-centuries.md)

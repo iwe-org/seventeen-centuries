@@ -23,6 +23,12 @@ Some concept files reveal how the same idea carries different meanings across ph
 
 **[virtue.md](graph/virtue.md)** — For Marcus Aurelius, virtue is acting according to nature and reason, serving the common good as naturally as the eye sees. Machiavelli inverts this: a prince who acts entirely virtuously will be ruined among so much evil. Nietzsche warns against becoming enslaved to one's own virtues, noting that every virtue inclines toward stupidity.
 
+## Articles
+
+The knowledge graph serves as a foundation for new comparative writing. These articles are built on top of the extracted fragments, concepts, and cross-references, synthesizing the source material into original analysis.
+
+- [Virtue across seventeen centuries](graph/virtue-across-centuries.md) — how the meaning of virtue transforms from Marcus Aurelius through Machiavelli to Nietzsche
+
 ## Source Texts
 
 All source texts are public domain editions from [Standard Ebooks](https://standardebooks.org/):
