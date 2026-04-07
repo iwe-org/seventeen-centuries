@@ -7,7 +7,7 @@ A knowledge graph connecting three philosophical texts across seventeen centurie
 
 ## Overview
 
-This project transforms philosophical texts into an interconnected knowledge graph using [iwe](https://github.com/iwe-org/iwe), a CLI tool for managing markdown document graphs with inclusion links.
+This project transforms philosophical texts into an interconnected knowledge graph using [iwe](https://iwe.md), a CLI tool for managing markdown document graphs with inclusion links.
 
 The graph is **hierarchical** with **polyhierarchy support**—documents can belong to multiple parent documents simultaneously. A concept like "virtue" can appear under both a book index and a thematic category, reflecting how knowledge naturally connects across domains.
 
@@ -21,13 +21,13 @@ The graph contains **1,200+ documents** including:
 
 Some concept files reveal how the same idea carries different meanings across philosophers:
 
-**[virtue.md](graph/virtue.md)** — For Marcus Aurelius, virtue is acting according to nature and reason, serving the common good as naturally as the eye sees. Machiavelli inverts this: a prince who acts entirely virtuously will be ruined among so much evil. Nietzsche warns against becoming enslaved to one's own virtues, noting that every virtue inclines toward stupidity.
+**[virtue.md](https://iwe.pub/seventeen-centuries/virtue)** — For Marcus Aurelius, virtue is acting according to nature and reason, serving the common good as naturally as the eye sees. Machiavelli inverts this: a prince who acts entirely virtuously will be ruined among so much evil. Nietzsche warns against becoming enslaved to one's own virtues, noting that every virtue inclines toward stupidity.
 
 ## Articles
 
 The knowledge graph serves as a foundation for new comparative writing. These articles are built on top of the extracted fragments, concepts, and cross-references, synthesizing the source material into original analysis.
 
-- [Virtue across seventeen centuries](graph/virtue-across-centuries.md) — how the meaning of virtue transforms from Marcus Aurelius through Machiavelli to Nietzsche
+- [Virtue across seventeen centuries](https://iwe.pub/seventeen-centuries/virtue-across-centuries) — how the meaning of virtue transforms from Marcus Aurelius through Machiavelli to Nietzsche
 
 ## Source Texts
 
@@ -44,16 +44,16 @@ All source texts are public domain editions from [Standard Ebooks](https://stand
 
 Concepts are organized into thematic categories:
 
-- [philosophers](graph/philosophers.md) - Thinkers discussed across the texts
-- [virtues](graph/virtues.md) - Qualities of character and excellence
-- [moral-systems](graph/moral-systems.md) - Different ethical frameworks
-- [nietzschean-concepts](graph/nietzschean-concepts.md) - Ideas central to Nietzsche
-- [power-dynamics](graph/power-dynamics.md) - Hierarchy, domination, social stratification
-- [religion](graph/religion.md) - Religious concepts and critiques
-- [politics](graph/politics.md) - Forms of government, political theory
-- [ancient-cultures](graph/ancient-cultures.md) - Civilizations referenced as examples
-- [psychology](graph/psychology.md) - Mental phenomena, drives, emotions
-- [philosophical-schools](graph/philosophical-schools.md) - Named traditions and movements
+- [philosophers](https://iwe.pub/seventeen-centuries/philosophers) - Thinkers discussed across the texts
+- [virtues](https://iwe.pub/seventeen-centuries/virtues) - Qualities of character and excellence
+- [moral-systems](https://iwe.pub/seventeen-centuries/moral-systems) - Different ethical frameworks
+- [nietzschean-concepts](https://iwe.pub/seventeen-centuries/nietzschean-concepts) - Ideas central to Nietzsche
+- [power-dynamics](https://iwe.pub/seventeen-centuries/power-dynamics) - Hierarchy, domination, social stratification
+- [religion](https://iwe.pub/seventeen-centuries/religion) - Religious concepts and critiques
+- [politics](https://iwe.pub/seventeen-centuries/politics) - Forms of government, political theory
+- [ancient-cultures](https://iwe.pub/seventeen-centuries/ancient-cultures) - Civilizations referenced as examples
+- [psychology](https://iwe.pub/seventeen-centuries/psychology) - Mental phenomena, drives, emotions
+- [philosophical-schools](https://iwe.pub/seventeen-centuries/philosophical-schools) - Named traditions and movements
 
 ## How the Graph Was Constructed
 
@@ -426,6 +426,6 @@ iwe stats                          # Graph statistics
 
 ## Related Projects
 
-- [iwe](https://github.com/iwe-org/iwe) — CLI for markdown document graphs
+- [iwe](https://iwe.md) — CLI for markdown document graphs
 - [iwe.md](https://iwe.md) — Documentation and website
 - [Standard Ebooks](https://standardebooks.org/) — Source texts
